@@ -1,5 +1,6 @@
 # Dependency directory
 node_modules
+npm-debug.log
 
 # Dev necessary
 README-DEV.md
